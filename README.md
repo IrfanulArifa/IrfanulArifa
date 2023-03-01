@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Perkenalkan nama saya **Irfanul Arifa**.\
+Perkenalkan nama saya **Irfanul Arifa**.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/irfanul-arifa-43b7a51a5/) ku ya.
 
