@@ -21,7 +21,7 @@ Perkenalkan nama saya **Irfanul Arifa**.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/irfanul-arifa-43b7a51a5/) ku ya.
 
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/IrfanulArifa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrfanulArifa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IrfanulArifa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
