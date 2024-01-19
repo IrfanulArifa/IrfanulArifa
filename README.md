@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Irfanul Arifa</h1>
 <h3 align="center">A passionate iOS developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/aa373006b249ab38a48d5f848ada44f5a0097fd4591f72ec1027414d9a1b89f0/68747470733a2f2f632e74656e6f722e636f6d2f666c666c433647467a4f3841414141642f73756c74616e2d616c7265666165692d70726f6772616d6d65722e676966"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanularifa&label=Profile%20views&color=0e75b6&style=flat" alt="irfanularifa" /> </p>
 
-- 🔭 I’m currently working on **PT. Sistema Datapilar**
+- 🔭 I’m currently working on **PT. Enterprise Digital Technology Services**
 
 - 🌱 I’m currently learning **iOS, UIKIt, SwiftUI, ProgrammaticUI**
 
